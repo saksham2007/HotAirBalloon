@@ -43,7 +43,7 @@ function draw() {
     }
 
     else if (keyDown(DOWN_ARROW)) {
-      balloon.scale=balloon.scale-0.01
+      balloon.scale=balloon.scale+0.01
 }
 }
 
